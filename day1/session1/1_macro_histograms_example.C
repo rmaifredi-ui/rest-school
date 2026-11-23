@@ -48,5 +48,3 @@ int run_duration(){
     return 0;
 
 }
-
-
